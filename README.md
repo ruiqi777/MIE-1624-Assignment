@@ -1,1 +1,1 @@
-# MIE-1624-Assignment
+# This is the repository for the assignments of course MIE 1624: Introduction to Data Science and Analytics at University of Toronto.
