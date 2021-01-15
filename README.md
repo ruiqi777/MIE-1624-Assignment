@@ -1,1 +1,1 @@
- Assignments of course MIE 1624: Introduction to Data Science and Analytics at University of Toronto.
+ Assignments of MIE 1624: Introduction to Data Science and Analytics, University of Toronto
